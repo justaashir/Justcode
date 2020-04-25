@@ -57,5 +57,6 @@ I'm a front-end web developer, and a technical writer. I love helping developers
 
 
 ## 🎂🍰🍥 Resources<a name = "resources"></a>
+- [Day 1 - Video Tutorial - How the Web Works, + HTML & HTTP](https://www.youtube.com/watch?v=9-Ssg0yNMAA&t=144s)
 
-Coming Soon
+More Coming Soon
